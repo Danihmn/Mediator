@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Mediator.Abstractions/Mediator.Abstractions.csproj" />
+  <Project Path="Mediator.Samples/Mediator.Samples.csproj" />
+  <Project Path="Mediator/Mediator.csproj" />
+</Solution>
