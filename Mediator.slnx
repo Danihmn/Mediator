@@ -1,5 +1,13 @@
 <Solution>
+  <Folder Name="/Clean Architecture/">
+    <Project Path="Api/Api.csproj" />
+    <Project Path="Application/Application.csproj" />
+    <Project Path="Domain/Domain.csproj" />
+    <Project Path="Infrastructure/Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Samples/">
+    <Project Path="Mediator.Samples/Mediator.Samples.csproj" />
+  </Folder>
   <Project Path="Mediator.Abstractions/Mediator.Abstractions.csproj" />
-  <Project Path="Mediator.Samples/Mediator.Samples.csproj" />
   <Project Path="Mediator/Mediator.csproj" />
 </Solution>
